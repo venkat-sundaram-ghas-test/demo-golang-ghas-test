@@ -1,12 +1,3 @@
-# Code Scanning Go Tutorial
-
-Welcome to the Code Scanning Go Tutorial! This tutorial will take you through how to set up Github Advanced Security: Code Scanning as well as interpret results that it may find. The following repository contains SQL injection vulnerability for demonstration purpose.
-
-## Introduction
-
-Code scanning is a feature that you use to analyze the code in a GitHub repository to find security vulnerabilities and coding errors. Any problems identified by the analysis are shown in GitHub.
-
-You can use code scanning with CodeQL, a semantic code analysis engine. CodeQL treats code as data, allowing you to find potential vulnerabilities in your code with greater confidence than traditional static analyzers.
 
 This tutorial with use CodeQL Analysis with Code Scanning in order to search for vulnerabilities within your code. 
 
